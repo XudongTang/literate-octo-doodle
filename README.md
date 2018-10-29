@@ -10,7 +10,7 @@
        * GitHub username 1: wkoerner001       name 1: Wes Koerner
        * GitHub username 2: sbohrwisc         name 2: Sophie Bohr
        * GitHub username 3: ganyixian         name 3: Yixian Gan
-       * GitHub username 4:       name 4:
+       * GitHub username 4: achiang5          name 4: Adrian Wen Jun Chiang
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    10/28/2018

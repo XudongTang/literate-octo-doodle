@@ -51,12 +51,11 @@ It will be a text-based user interface. it will prompt user for inputs, which ar
 a list of recipes, via console. 
 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
-
-Name each interface or class and briefly describe its function or purpose.
-
-
-## Edit and Submit this file and any figures referenced by this document.
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.<br/>
+Ingredients Class: Key (Name of ingredient), Value (Array List of Recipe Object)
+Recipe Class: Name of Recipe, Array List of Ingredients to make that recipe
+HashTableADT Interface: put, get
+RecipeTable Class: Hash Table containing the Ingredients Object, and uses buckets with Array List
+Main Class: Main user interface for the program
+TestRecipeTableClass Class: Test for exception handling, resizing, adding ingredients, test for input of 1/2 ingredient(s), IllegalArgumentException, NullPointerException when inputing 2 ingredients and one is empty string
 

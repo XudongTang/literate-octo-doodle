@@ -44,7 +44,7 @@ The Reverse Cookbook
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.<br/>
-First the number of ingredients. Than the ingredients. EX: 2, spaghetti, meatballs.
+First the number of ingredients. Then the ingredients. EX: 2, spaghetti, meatballs.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.<br/>
 It will be a text-based user interface. it will prompt user for inputs, which are ingredients, and the program will return 

@@ -40,8 +40,7 @@ Our program is going to use a hash table implemented through an array of ArrayLi
 The Reverse Cookbook
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-  A list of recipes that match the inputed ingredients. EX: 
+2. Output: Describe the output your program will produce.  Include and example format of the output produced.<br/> A list of recipes that match the inputed ingredients. EX: 
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.

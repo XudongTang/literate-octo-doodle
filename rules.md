@@ -28,6 +28,7 @@ We will set up a remainder on Trello, and we will test each other to make sure t
 
 ## Add any other rules that your team establishes to help each other work effectively together
 Frequent meetings to perform group tasks.
+good communication
 
 
 

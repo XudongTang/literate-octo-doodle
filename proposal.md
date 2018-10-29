@@ -47,7 +47,8 @@ The Reverse Cookbook
 First the number of ingredients. Than the ingredients. EX: 2, spaghetti, meatballs.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+it will be a text-based user interface. it will prompt user for inputs, which are ingredients, and the program will return 
+a list of recipes, via console. 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.

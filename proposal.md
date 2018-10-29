@@ -37,15 +37,15 @@ Our program is going to use a hash table implemented through an array of ArrayLi
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+The Reverse Cookbook
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+  A list of recipes that match the inputed ingredients. EX: 
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+The name 
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.

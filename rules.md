@@ -23,7 +23,7 @@ making sure the whole team is aware of the difficulty.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We will set up a remainder on Treloo, and we will test each other to make sure that no ddl will be missed. 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together

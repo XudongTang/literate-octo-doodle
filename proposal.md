@@ -52,10 +52,11 @@ a list of recipes, via console.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.<br/>
-Ingredients Class: Key (Name of ingredient), Value (Array List of Recipe Object)<br/>
-Recipe Class: Name of Recipe, Array List of Ingredients to make that recipe<br/>
-HashTableADT Interface: put, get<br/>
-RecipeTable Class: Hash Table containing the Ingredients Object, and uses buckets with Array List<br/>
-Main Class: Main user interface for the program<br/>
-TestRecipeTableClass Class: Test for exception handling, resizing, adding ingredients, test for input of 1/2 ingredient(s), IllegalArgumentException, NullPointerException when inputing 2 ingredients and one is empty string
+ a. Ingredients Class: Key (Name of ingredient), Value (Array List of Recipe Object)<br/>
+ b. Recipe Class: Name of Recipe, Array List of Ingredients to make that recipe<br/>
+ c. HashTableADT Interface: put, get<br/>
+ d. RecipeTable Class: Hash Table containing the Ingredients Object, and uses buckets with Array List<br/>
+ e. Main Class: Main user interface for the program<br/>
+ f. TestRecipeTableClass Class: Test for exception handling, resizing, adding ingredients, test for input of 1/2 ingredient(s),<br/>
+    IllegalArgumentException, NullPointerException when inputing 2 ingredients and one is empty string
 

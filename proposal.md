@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 29 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,7 +29,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
+Briefly describe a problem that your team would like to solve.
+Save user's time for figuring out what to cook by creating a program that quickly provides a recipe based on inputted ingredients.
 Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2

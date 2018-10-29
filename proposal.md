@@ -28,10 +28,11 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-
 Briefly describe a problem that your team would like to solve.
-Save user's time for figuring out what to cook by creating a program that quickly provides a recipe based on inputted ingredients.
+The problem we are trying to solve is wasting time trying to figure out what to cook. Our program will save the user time figuring out what to cook by using inputted ingredients to provide a recipe idea.
+
 Describe at a high level a program that could solve that problem.
+Our program is going to use a hash table implemented through an array of ArrayList buckets with ingredient objects. The user would input one or two ingredients and the program will output all of the recipes that use either one or both of the ingredients. The user can also enter in their own recipes with new or previously added ingredients. The ingredient object has a key of it's name and a value of an ArrayList of recipes that can be made from it.
 
 ## Questions to answer for Exercise #2
 
